@@ -1,0 +1,2 @@
+# mindfull-moments-app
+resources
